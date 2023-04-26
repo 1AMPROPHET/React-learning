@@ -1,0 +1,6 @@
+.active {
+  background: cyan;
+}
+.hidden {
+  display: none;
+}

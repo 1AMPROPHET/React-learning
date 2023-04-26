@@ -1,0 +1,25 @@
+.wrapper {
+  height: 100%;
+  overflow: hidden;
+}
+
+.filmItem img {
+  width: 100px;
+  float: left
+}
+
+.filmItem {
+  height: 140px;
+  overflow: hidden;
+  border-bottom: 1px solid #000;
+}
+
+.filmDetail {
+  position: fixed;
+  right: 0;
+  top: 100px;
+  background-color: #999;
+  width: 200px;
+  height: 200px;
+  color: #000;
+}

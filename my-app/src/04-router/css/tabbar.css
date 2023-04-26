@@ -1,0 +1,20 @@
+.tabbar {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  width: 100%;
+}
+
+.tabbar ul {
+  padding: 0;
+  display: flex;
+  width: 100%;
+  text-align: center;
+}
+
+.tabbar ul
+
+.activeTabbar {
+  color: darkCyan;
+  text-decoration: none;
+}
